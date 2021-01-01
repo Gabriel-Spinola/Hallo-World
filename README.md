@@ -1,2 +1,2 @@
-# Hallo World
- My First Repo
+# Hallo, World
+ My First Repository
