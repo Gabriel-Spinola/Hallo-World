@@ -3,3 +3,4 @@ dev (branch) => (commit) => localRepo (push) => remoteRepo (GitHub)
 commit => send to LocalRepo
 push => send commit to RemoteRepo
 pull => get commit to source
+fork => create your own version of a project
