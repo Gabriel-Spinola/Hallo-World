@@ -45,10 +45,10 @@
     [My Github](https://github.com/Gabriel-Spinola)
 
  Tables:
-    Num|Name|Note
-    ---|---|---
-    1|Gabriel|Halo
-    2|Guanabara|hulo
+ Num | Name | Note
+ ---|---|---
+ 1 | Gabriel | Halo
+ 2 | Guanabara | hulo
 
  :grinning:
  :smile:
