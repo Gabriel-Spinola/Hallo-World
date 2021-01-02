@@ -5,3 +5,7 @@ push => send commit to RemoteRepo
 pull => get commit to source
 fork => create your own version of a project
 gitigone => ignore file
+branch => "master" = production line,
+          "origin" = GitHub,
+          "branches" = add new features and stuff (subdivisions), when done and functional you *merge*  that branch to the *master*;
+          more info https://youtu.be/xAOBQtSVI_k  
